@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izlemag.Web", "Izlemag.Web\Izlemag.Web.csproj", "{2EEC5A37-B815-40B2-A60F-ABB1CDCB1121}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izlemag.Web.Tests", "Izlemag.Web.Tests\Izlemag.Web.Tests.csproj", "{0A7AB265-D693-46FA-80F4-603A3FFDFDC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Izlemag.Data", "Izlemag.Data\Izlemag.Data.csproj", "{2AE52A86-BC03-4E27-9D31-C666A261E21A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EEC5A37-B815-40B2-A60F-ABB1CDCB1121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EEC5A37-B815-40B2-A60F-ABB1CDCB1121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EEC5A37-B815-40B2-A60F-ABB1CDCB1121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EEC5A37-B815-40B2-A60F-ABB1CDCB1121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7AB265-D693-46FA-80F4-603A3FFDFDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7AB265-D693-46FA-80F4-603A3FFDFDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7AB265-D693-46FA-80F4-603A3FFDFDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7AB265-D693-46FA-80F4-603A3FFDFDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AE52A86-BC03-4E27-9D31-C666A261E21A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AE52A86-BC03-4E27-9D31-C666A261E21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AE52A86-BC03-4E27-9D31-C666A261E21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AE52A86-BC03-4E27-9D31-C666A261E21A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
